@@ -15,12 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on a fun CRUD application to help others easily track their Job Hunting Activities
-- 🌱 I’m currently learning more about Node.js and React to help with my full-stack development endeavors
-- 💬 Ask me about your marathon training goals!
+I am a dynamic and passionate full-stack developer currently on the lookout for my next exciting opportunity. With a robust skill set encompassing both front-end and back-end technologies, I thrive in crafting innovative and efficient solutions. 
+
+Beyond the world of coding, I find joy in the simplicity of running, exploring coffee shops, and embracing my creative instincts. My commitment to continuous learning and adaptability allows me to stay at the forefront of the ever-evolving tech landscape. Let's connect and explore how my technical expertise and enthusiasm for creativity can contribute to your team's success!
+
 - 📫 How to reach me:
   - Carrier Pigeon
   - Email: tylerwrule@gmail.com
   - LinkedIn: linkedin.com/in/twrule
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: When I'm not trying to hack into my own email I enjoy running and helping others reach their running goals!
